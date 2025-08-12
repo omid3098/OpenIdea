@@ -7,7 +7,7 @@ categories:
 
 # Liquid Fridge: Another Food Preservation System
 
-Liquid-based food preservation system that extends freshness for weeks by eliminating oxygen exposure. #ShouldExist #OpenIdeas
+Liquid-based food preservation system that extends freshness for weeks by eliminating oxygen exposure. 
 
 
 **Why (the problem)**
@@ -17,7 +17,7 @@ Liquid-based food preservation system that extends freshness for weeks by elimin
 - Current preservation methods are expensive and inaccessible to many households in developing countries
 - Rising food costs make food waste economically painful for families
 
-![Liquid Fridge Overview](../../assets/ideas/liquid_fridge/lf01.png)
+![Liquid Fridge Overview](../../assets/ideas/liquid_fridge/lf01.webp)
 /// caption
 AI generated concept
 ///
