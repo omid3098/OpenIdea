@@ -1,8 +1,7 @@
 # Home
 
 ```
-If I give you an apple and you give me an apple, we both have an apple.
-If I give you an idea and you give me an idea, we both have two ideas.
+If you have an apple and I have an apple and we exchange these apples then you and I will still each have one apple. But if you have an idea and I have an idea and we exchange these ideas, then each of us will have two ideas. - Charles F. Brannan
 ```
 
 ## Why
