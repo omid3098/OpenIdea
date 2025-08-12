@@ -6,6 +6,13 @@ theme:
   palette:
     scheme: slate
     primary: green
+  features:
+    - navigation.indexes
+
+nav:
+  - Home: index.md
+  - Ideas:
+    - blog/index.md
 
 markdown_extensions:
   - admonition
@@ -14,6 +21,14 @@ markdown_extensions:
   - pymdownx.tabbed:
       alternate_style: true
   - attr_list
+  - md_in_html
+  - pymdownx.blocks.caption
   - pymdownx.emoji:
       emoji_index: !!python/name:material.extensions.emoji.twemoji
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
+
+plugins:
+  - blog:
+      categories: true
+      post_url_date_format: yyyy/MM/dd
+  - search

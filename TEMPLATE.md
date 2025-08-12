@@ -1,8 +1,6 @@
 # Template
 
-```
-{Idea Title}: should exist. Here’s the problem and a possible path. #ShouldExist #OpenIdeas
-```
+{Idea Title}: and a short 1 line description.
 
 **Why (the problem)**
 
@@ -32,7 +30,4 @@
 
 **Next step & call to action**
 
-```
-Next step: {one concrete action}.
-If this resonates, reply/DM or fork the doc: {link}. #ShouldExist
-```
+{one concrete action}.
