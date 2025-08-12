@@ -1,0 +1,8 @@
+site_name: Open Idea
+theme:
+  logo: assets/open-idea-logo.png
+  favicon: assets/open-idea-logo.png
+  name: material
+  palette:
+    scheme: slate
+    primary: green
